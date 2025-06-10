@@ -1,6 +1,9 @@
 
 # ☁️ **KUBERNETES MONGODB + MONGO EXPRESS DEMO**
 
+![Screenshot from 2025-06-08 14-35-02](https://github.com/user-attachments/assets/f72e75e1-13e7-426a-8b18-0c709a83c68e)
+
+
 This is a **Kubernetes-based full-stack demo** featuring a secure, containerized MongoDB backend and a web-based admin UI powered by Mongo Express. The stack is deployed using core Kubernetes resources including **Secrets, ConfigMaps, Deployments, Services, and Ingress**—making it ideal for cloud-native platforms and showcasing production-ready practices.
 
 ---
